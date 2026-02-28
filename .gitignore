@@ -1,0 +1,4 @@
+test/
+*.9
+bin/
+*.DS_Store
