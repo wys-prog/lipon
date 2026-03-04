@@ -1,0 +1,10 @@
+import lipon.Std.String;
+import lipon.Std.Graphics;
+import lipon.Std.Window;
+import lipon.Std.Dll;
+
+pub cla Program {
+	pub static fn main() {
+		
+	}
+}

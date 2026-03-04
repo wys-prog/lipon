@@ -8,6 +8,7 @@
 #include <vector>
 #include <memory>
 #include <string>
+#include <cmath>
 
 extern "C" {
   #include "lipon.h"
